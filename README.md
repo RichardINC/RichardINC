@@ -1,6 +1,6 @@
 # Richârd 🏁
 
-- Selamlar, ben [richârd](https://github.com/belaliyim). Bu hesabı 2018'den 2022'ye kadar yaptığım DiscordJS V11-v13 arası sürümlerdeki yarım kalan biten ve bilinmeyen bütün botlarımı paylaşmak için açtım. Projelerde hatalar vardır, alıntılar vardır, yalan yok çalıntılarda da vardır, Unutmadan benimle sadece mail üzerinden iletişime geçebilirsiniz harici bakmıyorum. hadi gürşürüz.
+- Selamlar, ben [richârd](https://github.com/belaliyim). Bu hesabı 2018'den 2022'ye kadar yaptığım DiscordJS V11-v13 arası sürümlerdeki yarım kalan biten ve bilinmeyen bütün botlarımı paylaşmak için açtım. Projelerde hatalar vardır, alıntılar vardır, yalan yok çalıntılarda da vardır, Unutmadan benimle sadece mail üzerinden iletişime geçebilirsiniz harici bakmıyorum.
 - Projelerimde bir çok insan bulundu ama yardımları için sadece [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 
 ![Profile Count](https://komarev.com/ghpvc/?username=RichardINC&label=Profile+Visits&style=flat-square&color=FF0000)&nbsp;
